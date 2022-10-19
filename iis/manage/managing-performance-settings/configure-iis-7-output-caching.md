@@ -93,7 +93,7 @@ To see performance in the output cache, you can look at output cache counters in
 3. Navigate to the **Web Service Cache** counter, and then click on it to open it.
 4. Add the **Total URIs Cached** counter.
 
-If you run a performance test, you can see that the number of cached URIs increases with the number if items you request.
+If you run a performance test, you can see that the number of cached URIs increases with the number of items you request.
 
 ## Use Kernel-Mode Caching
 
